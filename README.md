@@ -1,3 +1,3 @@
-#**IMDb-Case-Study**
+# **IMDb-Case-Study**
 
-##Objective: 
+## Objective: 
