@@ -11,4 +11,7 @@
 * Intel Core i5
 * RAM 4 Gb
 * https://github.com/tanmaybiswas007/IMDb-Case-Study/blob/main/IMDb%20Database.xlsx
+
+## Insights
+* 
              
