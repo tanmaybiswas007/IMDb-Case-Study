@@ -10,5 +10,5 @@
 * Excel 2019
 * Intel Core i5
 * RAM 4 Gb
-* [a link]  https://github.com/tanmaybiswas007/IMDb-Case-Study/blob/main/IMDb%20Database.xlsx
+* https://github.com/tanmaybiswas007/IMDb-Case-Study/blob/main/IMDb%20Database.xlsx
              
