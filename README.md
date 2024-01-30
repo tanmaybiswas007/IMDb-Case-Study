@@ -1,4 +1,4 @@
-# **IMDb-Case-Study**
+# **IMDb-Case-Study** #D22B2B
 
 ## Objective: 
 * What is the specific business problem we are attempting to address and what is my goal? 
