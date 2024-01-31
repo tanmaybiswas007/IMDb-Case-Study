@@ -1,3 +1,4 @@
+<img src= "https://icons8.com/icon/ITiDg1AcK044/external-imdb-an-online-database-of-information-related-to-films-and-television-programs-logo-color-tal-revivo"
 # **IMDb-Case-Study**
 
 ## Objective: 
