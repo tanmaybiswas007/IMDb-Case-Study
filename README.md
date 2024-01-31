@@ -1,6 +1,7 @@
-# **IMDb-Case-Study**
+# <p align="center">
+  <img width="600" height=" 400" src="IMDB CASE IMG/PngItem_485125.png">
+</p> **IMDb-Case-Study**
 -
-
 ## Objective: 
 -
 * What is the specific business problem we are attempting to address and what is my goal? 
