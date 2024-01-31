@@ -6,7 +6,23 @@ Objective:
 
 Insights
 -
-* 
+This Project involves the following steps :
+-
+* Data Understanding by problems
+
+* Data Cleaning
+
+* Data Manipulating
+
+* Explotory data analysis(EDA)
+
+* Data visualization by Dashboard & insights
+
+Questions:
+
+1.Which Genre produced most Gross Revenue?
+
+https://github.com/tanmaybiswas007/IMDb-Case-Study/blob/main/Images/gen%20vs%20rev.png
 
 Conclusion:
 -
